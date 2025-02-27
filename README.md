@@ -1,0 +1,1 @@
+This is a public version of the repository used to store the code from the Simulation course group project, the original repo had to remain private as it contains my other ongoing assignments. This will serve as a frozen version of the code as well.
